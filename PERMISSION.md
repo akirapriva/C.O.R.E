@@ -1,3 +1,4 @@
+## Conditions
 **If you want to use any kind of assets from this project, please ask for a special permission.**
 
 ## NOTE
