@@ -1,2 +1,2 @@
 # C.O.R.E
-Central Operations for Rebirth
+Central Operations for Rebirth & Engineering
